@@ -1,0 +1,5 @@
+- In this **Python regression project**, we utilized the **Pandas library** to load the dataset into a dataframe, where we conducted thorough data cleaning and transformation.
+- Using **Matplotlib**, we created insightful graphs for attributes such as outlet location type, outlet type, item weight, and item MRP.
+- Employing **machine learning models**, specifically **multiple linear regression** and **decision tree regressor**, we predicted product sales by considering various attributes such as product type, MRP, fat content, outlet location, and outlet type.
+- Our analysis aimed to unravel the impact of different factors on sales and understand their correlations.
+- The deployment of these regression models was strategic, aiming for optimal accuracy in our sales predictions.
